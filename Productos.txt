@@ -1,0 +1,46 @@
+
+
+
+http://localhost:8080/api/createProduct
+
+
+
+{
+	"title": "Smoothing Coconut de Jāsön",
+	"some_description": "Perfecto para el pelo dañado y encrespado. Si quieres acabar con las puntas abiertas, aplícalo antes de lavarte el cabello. Con vitamina E. ",
+	"price": 75000,
+	"discount": 10,
+        "image": "https://www.clara.es/medio/2019/02/14/aceite-de-coco-para-el-pelo-jason-aceite-1395%E2%82%AC_5e24960b_1000x1000.jpg"
+}
+
+{
+	"title": "Organic Raw Virgin Coconut Oil ",
+	"some_description": "Este aceite de coco extra virgen, elaborado a partir de pulpa fresca de la nuez de coco, no tardará mucho en convertirse en uno de tus productos de belleza imprescindibles. Además, podrás usarlo en la cocina, ¡como sustituto de la mantequilla y la margarina!",
+	"price": 60000,
+	"discount": 15,
+        "image": "https://www.clara.es/medio/2019/02/14/aceite-de-coco-para-el-pelo-aceite-445%E2%82%AC_a271c766_1000x1000.jpg"
+}
+
+{
+	"title": "Aceite Extraordinario de L'Oréal Paris",
+	"some_description": "Este aceite de coco de la gama Elvive ha sido micronizado en procesos específicos de extracción. Es tan fino que penetra y nutre el cabello profundamente sin apelmazarlo. Aplícalo antes del peinado para transformar tu pelo en una melena suave y sedosa o como toque final, para disciplinar el cabello y darle un toque luminoso.",
+	"price": 90000,
+	"discount": 5,
+        "image": "https://www.clara.es/medio/2019/02/14/aceite-de-coco-para-el-pelo-aceite-loreal-749%E2%82%AC_b76e0040_1000x1000.jpg"
+}
+
+{
+	"title": "Champú Curl & Shine de Shea Moisture",
+	"some_description": " si quieres conseguir unos resultados aún mejores, apuesta también por un champú con aceite de coco. Este es perfecto si tienes el pelo grueso y rizado. Enriquecido no solo con aceite de coco, sino también con proteína de seda y aceite de nim, eliminará suavemente las impurezas para dejar el pelo suave y sedoso. ",
+	"price": 90000,
+	"discount": 10,
+        "image": "https://www.clara.es/medio/2019/02/14/aceite-de-coco-para-el-pelo-champu-shea-moisture-1295%E2%82%AC_ceee87e6_1000x1000.jpg"
+}
+
+{
+	"title": "CocoShea Spray de As I am",
+	"some_description": "Un spray ligero que proporciona hidratación y protección de larga duración. Se absorbe rápidamente y protege el cabello de las agresiones del medio ambiente, las condiciones climáticas y el encrespamiento.",
+	"price": 78000,
+	"discount": 25,
+        "image": "https://www.clara.es/medio/2019/02/14/aceite-de-coco-para-el-pelo-spray-as-i-am-1345%E2%82%AC_bd329de7_1000x1000.jpg"
+}
